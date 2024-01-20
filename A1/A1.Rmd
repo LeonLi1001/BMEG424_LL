@@ -697,3 +697,9 @@ Citation: Snakemake: What will happen if the output file of a rule is already ge
 
 # Contributions
 Please note here the team members and their contributions to this assignment.
+
+Leon Li: 23341381
+
+Emily Flaschner: 26576629
+
+(All members worked together on all questions. The set-up was done individually.)
