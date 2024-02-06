@@ -232,7 +232,7 @@ H3K27ac associates with enhancer & promoters, and H3K4me3 associates with promot
 ```
 #?# 16. Based on the sum of your analyses which file do you believe is the H3K27me3 sample? Why? (1 pts)
 -----------------------------------------------------
-Based on the previous analysis, sample 2 is H3K27me3. Based on the inference from Question 7 and 15, within sample 2's enhanced region, sample 3's expression is enhanced when sample 1 does not have any expression. This fits in the characteristic of a promoter therefore H3K27me3.
+Based on our previous analysis, H3K27me3 corresponds to sample 1. H3K27me3 is a repressive modification which would result in  limited expression that can be observed in the previous sample 1 heatmaps. When our sample of interest is 1 and the reference regions are sample 2 or 3, we do not observe any peaks which also fits characteristics similar to inhibition. We can therefore associate the H3K27me3 sample with sample 1.
 
 Citation: Zhou, C., Halstead, M. M., Bonnet-Garnier, A., Schultz, R. M., & Ross, P. J. (2022). Resetting H3K4me3, H3K27ac, H3K9me3 and H3K27me3 during the maternal-to-zygotic transition and blastocyst lineage specification in bovine embryos. https://doi.org/10.1101/2022.04.07.486777
 -----------------------------------------------------
