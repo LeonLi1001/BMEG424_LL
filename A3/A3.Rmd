@@ -139,7 +139,7 @@ plotHeatmap -m matrix.gz -o heatmap.png --colorMap Blues --kmeans 3
 #?# 6. Explain what you are looking at (Axes, colours, curves) (1 pts)
 
 -----------------------------------------------------
-Answer: The heatmap has the first row of line plots that represents the intensity of each of the 3 clusters within each sample. The x-axis represents the gene region of each sample including 1000bp upstream and downstream. TSS stands for transcrpition start site and TES stands for transcription end site. The y-axis is the signal intensity. In the bottom heatmaps, the more blue it is the more intense the sigals is. The x-axis for the heatmap is the same as the profile plot. Within each column, there are three heapmaps, each represent signals that belong to each cluster. The [0,0] heapmap represents the sigals of cluster 1 within sample 1 and vice versa. 
+Answer: The heatmap has the first row of line plots that represents the intensity of each of the 3 clusters within each sample. The x-axis represents the gene region of each sample including 1000bp upstream and downstream. TSS stands for transcrpition start site and TES stands for transcription end site. The y-axis is the signal intensity. In the bottom heatmaps, the more blue it is the more intense the sigals is. The x-axis for the heatmap is the same as the profile plot. Within each column, there are three heatmaps, each represent signals that belong to each cluster. The [0,0] heatmap represents the sigals of cluster 1 within sample 1 and vice versa. 
 
 Citation: ChapGPT: "Can you tell me how I should interpret a heatmap made by plotHeatmap"
 Citation: “Normalization of PlotHeatmap · Issue #824 · Deeptools/DeepTools.” GitHub, github.com/deeptools/deepTools/issues/824. Accessed 3 Feb. 2024.
