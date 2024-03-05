@@ -379,11 +379,11 @@ Here we grabbed the coefficient from the 800 features and restored its shape to 
 Performing dimensionality reduction can reduce the computational complexity spasity of the data. Especially with single-cell RNA-seq, our n = 1500x2500, this is very costly to training. For Kmeans, training requires to calculate the euclidean distance of every example with the cluster centers for each iteration. For DBSCAN, prediction will be costly as the new example will have to calculate distance with every existing example in the training set. Dimensionality reduction also allows for visualization in a lower dimension space. 
 
 Advantage: 
-1. Visualization: Dimensionality reduction allows for visualizatino and intepretation of dataset in a lower dimension space. 
-2. Intepretability: with the help of visualizations, we can more easily to identify meaningful relations and clusters. 
+1. Visualization: Dimensionality reduction allows for visualization and intepretation of a dataset in a lower dimension space. 
+2. Intepretability: with the help of visualizations, we can more easily identify meaningful relations and clusters. 
 
 Disadvantage: 
-1. Choice of Dimensionality reduction techniques: The performance of the techniques may varies based on the dataset
+1. Choice of Dimensionality reduction techniques: The performance of the techniques may vary based on the dataset
 2. Information loss: In this process, information are reduced to simply the variability of the data. Hence this may result in oversimplification. 
 
 
