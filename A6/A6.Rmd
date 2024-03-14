@@ -364,3 +364,5 @@ Furthermore, with no information on both patients the risk of different amount o
 
 Yes, by repeating the analysis for each trait we would be able to generate PRS values specific to the traits for each patient. Accordingly, we would be able to compare the polygenic risk scores of each trait for each patient and demonstrate which patient has a higher score and consequently higher risk.
 
+# Contributions
+Leon Li and Emily Flaschner contributed equally to this assignment. 
