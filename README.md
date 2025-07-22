@@ -66,4 +66,4 @@ Academic integrity is taken very seriously. All work must be your own or appropr
 
 ---
 
-This repository contains my personal assignment submissions for the course. All code and write-ups reflect my own learning process unless explicitly stated otherwise.
+This repository contains my personal assignment submissions for the course. All code and write-ups reflect my own learning process unless explicitly stated otherwise. The README file is generated using OpenAI ChatGPT. 
